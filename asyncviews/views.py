@@ -1,5 +1,4 @@
 import asyncio
-from time import sleep
 import httpx
 from django.http import HttpResponse
 
